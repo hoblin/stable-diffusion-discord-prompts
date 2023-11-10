@@ -3,8 +3,8 @@
 // @description  Adds a button to reveal the prompt hidden in a png image, if it has one.
 // @author       moonshine
 // @version      3.3
-// @downloadURL  https://raw.githubusercontent.com/moonshinegloss/stable-diffusion-discord-prompts/main/discord-prompt.user.js
-// @updateURL    https://raw.githubusercontent.com/moonshinegloss/stable-diffusion-discord-prompts/main/discord-prompt.user.js
+// @downloadURL  https://github.com/hoblin/stable-diffusion-discord-prompts/raw/install-from-fork/discord-prompt.user.js
+// @updateURL    https://github.com/hoblin/stable-diffusion-discord-prompts/raw/install-from-fork/discord-prompt.user.js
 // @match        https://discord.com/channels/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=discord.com
 // @grant        GM.xmlHttpRequest

@@ -1,7 +1,7 @@
 # stable-diffusion-discord-prompts
 tampermonkey script; shows a prompt-reveal button if images contain stable diffusion prompts in the png metadata
 
-[![install](https://user-images.githubusercontent.com/118488816/202579095-03336ed4-80ae-4066-b764-3636772a4fb6.png)](https://raw.githubusercontent.com/moonshinegloss/stable-diffusion-discord-prompts/main/discord-prompt.user.js)
+[![install](https://user-images.githubusercontent.com/118488816/202579095-03336ed4-80ae-4066-b764-3636772a4fb6.png)](https://github.com/hoblin/stable-diffusion-discord-prompts/raw/install-from-fork/discord-prompt.user.js)
 
 Note by default the extension ignores DMs for privacy sake, but if you want it to work there too just set `const ignoreDMs = false` in the script.
 
